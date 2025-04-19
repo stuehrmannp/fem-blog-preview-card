@@ -16,8 +16,8 @@ p {
 }
 
 .card-container {
-    max-width: 412px;
-    max-height: 620px;
+    max-width: 400px;
+    max-height: 580px;
     border: 1px solid #000;
     background-color: hsl(0, 0%, 100%);
     border-radius: 17px;
